@@ -4,7 +4,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ashish Kumar Singh</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things!&center=true&width=380&height=45"></a>
+</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevGoyalG&label=Profile%20views&color=0e75b6&style=flat" alt="devgoyalg" /> </p>
@@ -17,7 +17,7 @@
 - Achieved **Rank 12** in **Coding Ninjas Beginner Contest 5**
 - Achieved **Global rank 10,121** in **Leetcode Biweekly Contest 136**
 - **7K+ Followers** & **85K+ Impressions** on **LinkedIn** 🚀
-- Feel free to contact me : **devgoyalg2346@gmail.com**
+- Feel free to contact me : **ashish1053singh@gmail.com**
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
 
