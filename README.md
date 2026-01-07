@@ -1,7 +1,7 @@
-<!-- <h1 align="center">Hi 👋, I'm Dev Goyal </h1>  -->
+<!-- <h1 align="center">Hi 👋, I'm Ashish Kumar Singh </h1>  -->
 <!-- <h3 align="center">Learn To Write Code!</h3> ...-->
 <!-- 45 -->
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Dev Goyal</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ashish Kumar Singh</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things!&center=true&width=380&height=45"></a>
